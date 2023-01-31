@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(87, 153, 22);
+}
+
+.info{
+    color: rgb(255, 255, 255);
+    font-size: 600;
+    background-color: transparent;
+    
+}
+
+.art_gallery{
+    color: rgb(255, 255, 255);
+    
+    font-size: 500;
+}
+
+.Website_visit_count{
+    color: white;
+    font-size: 500;
+    border-radius: 50%;
+}
+
+body {
+    background-image: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pinclipart.com%2Fpicdir%2Fbig%2F105-1053184_clipart-face-shrek-shrek-forever-after-png-download.png&f=1&nofb=1&ipt=fc6742f8e412c86c317c726e9891684f9c008e322a2c5d9d4756b7f6eff2a4b3&ipo=images');
+  }
+
+.heading{
+    background-color: greenyellow;
+}
+
+.top_10_shrek_quotes{
+    color: white;
+}
+
+.about{
+    color: white;
+}
